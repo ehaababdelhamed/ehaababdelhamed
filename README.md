@@ -12,7 +12,3 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-<div id="badges" align="center">
-  [![Mail](https://img.shields.io/badge/minakaram.me@gmail.com-red?logo=Gmail&logoColor=blue&labelColor=black)](mailto:minakaram.me@gmail.com)
-  </a>
-</div>
