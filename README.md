@@ -13,6 +13,6 @@
   </a>
 </div>
 <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/Ehabadbdelhamed139@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  [![Mail](https://img.shields.io/badge/minakaram.me@gmail.com-red?logo=Gmail&logoColor=blue&labelColor=black)](mailto:minakaram.me@gmail.com)
   </a>
 </div>
