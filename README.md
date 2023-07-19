@@ -12,3 +12,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+    <img src="https://img.shields.io/badge/Ehabadbdelhamed139@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
