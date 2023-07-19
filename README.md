@@ -13,6 +13,6 @@
   </a>
 </div>
 <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/Ehabadbdelhamed139@gmail.com-orange?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Ehabadbdelhamed139@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
