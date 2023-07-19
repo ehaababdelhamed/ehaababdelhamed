@@ -8,7 +8,7 @@
   <a href="https://www.hackerrank.com/ehabahlawy744?hr_r=1">
     <img src="https://img.shields.io/badge/HackerRank-Green?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank Badge"/>
   </a>
-  <a href="your-twitter-URL](https://www.facebook.com/HoOoPa.abdelhamed">
+  <a href="https://www.facebook.com/HoOoPa.abdelhamed">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
